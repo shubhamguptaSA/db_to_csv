@@ -14,7 +14,7 @@ convert-db-to-csv.sh is a shell script that uses SQLite3 to convert a .db file i
 - Clone repository.
 
 	```sh
-	$ git clone https://github.com/darrentu/convert-db-to-csv
+	$ git clone https://github.com/shubhamguptaSA/convert-db-to-csv
 	```
 
 ### Usage
